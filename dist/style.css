@@ -1,0 +1,64 @@
+body {
+  background-image: url("https://addons-media.operacdn.com/media/CACHE/images/themes/05/48105/1.0-rev1/images/417b48a5-6b60-4969-b6b9-98ea491fa7a7/01485591d1541b6bca00633894394514.jpg");
+  font-family: sans-serif;
+  
+}
+
+section {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  max-width: 500px;
+  margin-top: 100px;
+  background-color: #191960;
+  padding: 15px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+section h1 {
+  font-size: 30px;
+  text-align: center;
+  color: white;
+}
+
+section h2 {
+  text-align: center;
+}
+
+section spam {
+  text-align: center;
+}
+
+header {
+  background-image: url("https://media2.giphy.com/media/nx0MDnbVyyTgk/giphy.gif");
+  background-size: cover;
+  background-position: bottom;
+  border-radius: 5px;
+}
+
+div {
+  padding: 15px;
+  margin: 15px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.bruce {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border: 10px solid  #191950;
+}
+
+.paulo {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  margin-right: auto;
+  display: block;
+  border: 8px solid  #191950;
+}
